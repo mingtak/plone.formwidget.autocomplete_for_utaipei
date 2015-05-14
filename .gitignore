@@ -16,7 +16,3 @@ fake-eggs/
 parts/
 dist/
 var/
-config.py
-*.html
-*.js
-*.css
